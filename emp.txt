@@ -1,0 +1,2 @@
+101,Rahul Yadav,Male,123000.00,1410065407,Bareilly,20
+176,Omji Dubey,Male,123000.00,1234567890,Bareilly,20,Lazy
