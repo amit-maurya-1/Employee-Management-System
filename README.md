@@ -17,26 +17,29 @@ techniques.
 
 **Core Features:**
 
-Add New Employee: Input and store details such as name, employee ID, designation, experience, age,Core Features:
+● Add New Employee: Input and store details such as name, employee ID, designation, experience, age,Core Features:
 
-Add New Employee: Input and store details such as name, employee ID, designation, experience, age, and salary.
+● Add New Employee: Input and store details such as name, employee ID, designation, experience, age, and salary.
 
-View/List Employees: Display all stored employee records in a readable format.
+● View/List Employees: Display all stored employee records in a readable format.
 
-Edit/Modify Records: Update existing employee information as needed.
+● Edit/Modify Records: Update existing employee information as needed.
 
-Delete Records: Remove an employee’s record from the system.
+● Delete Records: Remove an employee’s record from the system.
 
-Search Records: Find specific employees based on parameters like ID, name, or designation.
+● Search Records: Find specific employees based on parameters like ID, name, or designation.
 
 <br>
 
 # 🛠️**Terminal Command **
 
-
-
-gcc login.c   emp_employee.c   emp_admin.c   attendance.c   complaint.c   leave_management.c  -o ems.exe
 If interested in compiling the project, enter the above command in the terminal of the project directory.
+
+<br>
+
+gcc login.c  <br>   emp_employee.c  <br>  emp_admin.c <br>    attendance.c <br>   complaint.c <br>   leave_management.c  <br> -o ems.exe
+
+
 
 
 
